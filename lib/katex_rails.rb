@@ -6,5 +6,4 @@ require "katex_rails/view_helpers"
 
 module KatexRails
   class Error < StandardError; end
-  # Your code goes here...
 end
